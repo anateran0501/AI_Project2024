@@ -23,7 +23,7 @@ ratings = pd.read_csv(r"C:\Users\shuba\Downloads\ratings.csv\ratings.csv")
 # In[3]:
 
 
-# Check column names
+# Check column names.
 print(movies.columns)
 
 # Display DataFrame
